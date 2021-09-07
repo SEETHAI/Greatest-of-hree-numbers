@@ -8,7 +8,7 @@ public class BiggestNumber
       int a,y,z;
       Scanner s=new Scanner(System.in);
       System.out.print("Enter the First number:");
-      x=s.nextInt();
+      a=s.nextInt();
       System.out.println("Enter the Second number:");
       y=s.nextInt();
       System.out.println("Enter the Third number:");
