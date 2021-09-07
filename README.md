@@ -1,4 +1,4 @@
-# Greatest-of-hree-numbers
+# Greatest-of-three-numbers
 java program to check Greatest of three numbers
 import java.util.Scanner;
 public class BiggestNumber
