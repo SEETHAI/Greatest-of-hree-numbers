@@ -5,17 +5,17 @@ public class BiggestNumber
 {
    public static void main(String[]args)
    {
-      int a,y,z;
+      int b,y,z;
       Scanner s=new Scanner(System.in);
       System.out.print("Enter the First number:");
-      a=s.nextInt();
+      b=s.nextInt();
       System.out.println("Enter the Second number:");
       y=s.nextInt();
-      System.out.println("Enter the Third number:");
+      System.out.println("Enter the third number:");
       z=s.nextInt();
       if(a>y&&x>z)
       {
-         System.out.println("Largest number is:"+a);
+         System.out.println("Largest number is:"+b);
       }
       else if(y>x&&y>z)
       {
